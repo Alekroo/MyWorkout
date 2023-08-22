@@ -9,4 +9,4 @@ An Android app I developed in Android Studio using mainly Java and XML, to track
 store templates of those plans for further use, and register the history of workout performances.
 
 ## Credits:
-I would like to credit ... for using his icons in my project. 
+All icons used to represent exercises were created by Leremy Stick Figures (https://iconscout.com/contributors/leremy/icons).
